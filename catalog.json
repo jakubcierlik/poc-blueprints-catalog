@@ -1,0 +1,26 @@
+[
+    {
+      "id": "CITI-PoC-RDS",
+      "name": "CITI-PoC-RDS",
+      "description": "Blueprint for creating the whole infrastructure with RDS as the main database.",
+      "html_url": "https://github.com/jakubcierlik/td-poc/tree/master",
+      "zip_url": "https://github.com/jakubcierlik/td-poc/archive/refs/heads/master.zip",
+      "readme_url": "https://raw.githubusercontent.com/jakubcierlik/td-poc/master/README.md",
+      "main_blueprint": "blueprint-openstack.yaml",
+      "image_url": "https://raw.githubusercontent.com/jakubcierlik/td-poc-catalog-logos/main/td-openstack-logos.png",
+      "created_at": "2021-04-20T11:32:13Z",
+      "updated_at": "2021-04-20T11:32:13Z"
+    },
+    {
+      "id": "CITI-PoC-MariaDB",
+      "name": "CITI-PoC-MariaDB",
+      "description": "Blueprint for creating the whole infrastructure with MariaDB as the main database.",
+      "html_url": "https://github.com/jakubcierlik/td-poc/tree/master",
+      "zip_url": "https://github.com/jakubcierlik/td-poc/archive/refs/heads/master.zip",
+      "readme_url": "https://raw.githubusercontent.com/jakubcierlik/td-poc/master/README.md",
+      "main_blueprint": "blueprint-vsphere-nsx-t.yaml",
+      "image_url": "https://raw.githubusercontent.com/jakubcierlik/td-poc-catalog-logos/main/td-vmware-logos.png",
+      "created_at": "2021-04-20T11:34:46Z",
+      "updated_at": "2021-04-20T11:34:46Z"
+    }
+]
