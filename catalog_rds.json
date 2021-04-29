@@ -1,13 +1,13 @@
 [
     {
-      "id": "CITI-PoC-RDS",
-      "name": "CITI-PoC-RDS",
+      "id": "Morgan-Stanley-PoC-RDS",
+      "name": "Morgan-Stanley-PoC-RDS",
       "description": "Blueprint for creating the whole infrastructure with RDS as the main database.",
       "html_url": "https://github.com/Cloudify-PS/citi-poc/tree/efs",
       "zip_url": "https://github.com/Cloudify-PS/citi-poc/archive/refs/heads/efs.zip",
       "readme_url": "https://raw.githubusercontent.com/Cloudify-PS/citi-poc/efs/README.md",
       "main_blueprint": "setup-rds.yaml",
-      "image_url": "https://raw.githubusercontent.com/jakubcierlik/poc-blueprints-catalog/main/citi-rds.png",
+      "image_url": "https://raw.githubusercontent.com/jakubcierlik/poc-blueprints-catalog/main/morgan-rds.png",
       "created_at": "2021-04-20T11:32:13Z",
       "updated_at": "2021-04-20T11:32:13Z"
     }
